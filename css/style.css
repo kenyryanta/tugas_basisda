@@ -1,0 +1,12 @@
+body{
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../1.jpg);
+	background-position: cover;
+	background-size: cover;
+	margin: 0;
+	padding:0;
+}
+.btn_tambah_siswa{
+width: 30%;
+margin-top: 10px;
+margin-left: 10px;
+}
